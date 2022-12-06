@@ -1,2 +1,2 @@
 print("hello world")
-print(this error code)
+print("this error code")
